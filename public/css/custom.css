@@ -1,0 +1,38 @@
+textarea {
+    resize: none !important;
+}
+
+.li-hover:hover {
+    color: white;
+    background-color: #ff7675 !important;
+    font-weight: bold;
+}
+
+.panel-title {
+    font-size: 18px !important;
+}
+
+.avatar {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.small-avatar {
+    margin-right: 10px;
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.reply-avatar {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.btn-sub {
+    float: right !important;
+    width: 200px !important;
+}
+
+small {
+    margin-right: 15px;
+}
